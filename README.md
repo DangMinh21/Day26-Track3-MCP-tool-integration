@@ -1,7 +1,9 @@
 # Day 26 — Track 3: MCP Tool Integration
 
 **Học viên**: Đặng Văn Minh
+
 **MSHV**: 2A202600027
+
 **Bài**: Build a Database MCP Server with FastMCP and SQLite
 
 ---
