@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "sqlite-lab": {
+      "type": "stdio",
+      "command": "/Library/Frameworks/Python.framework/Versions/3.12/bin/python3",
+      "args": [
+        "/Users/dangminh/Desktop/Vin-PracticalAI/assignments/day26-mcp-a2a/Day26-Track3-MCP-tool-integration/implementation/mcp_server.py"
+      ],
+      "env": {}
+    }
+  }
+}

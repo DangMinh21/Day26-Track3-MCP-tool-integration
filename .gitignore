@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Environment
+.env
+implementation/.env
+
+# SQLite database files
+*.db
+*.db-journal
+
+# Inspector cache
+.npm-cache/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
